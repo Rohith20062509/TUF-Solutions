@@ -6,17 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-21` |
+| **2** | 0 | 2 | 0 | `2026-10-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [992. Range Sum in BST
+| 0001 | [373. Design Snake Game
+POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
+| 0002 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
 
 ---
