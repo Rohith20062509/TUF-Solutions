@@ -6,21 +6,23 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 3 | 0 | `2026-10-23` |
+| **4** | 0 | 4 | 0 | `2026-10-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [974. Check if an array represents a min heap
+| 0001 | [745. Check for Perfect Number
+POTD](./DSA/General/check-for-perfect-number) | [JAVA](./DSA/General/check-for-perfect-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0002 | [974. Check if an array represents a min heap
 POTD](./DSA/Heaps/check-if-an-array-represents-a-min-heap-) | [JAVA](./DSA/Heaps/check-if-an-array-represents-a-min-heap-/solution.java) | ⚪ Unspecified | `Heaps` | `2026-10-23` |
-| 0002 | [373. Design Snake Game
+| 0003 | [373. Design Snake Game
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0003 | [992. Range Sum in BST
+| 0004 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
 
 ---
