@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-10-26` |
+| **7** | 0 | 7 | 0 | `2026-10-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,6 +28,8 @@ POTD](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference) | [
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
 | 0006 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
+| 0007 | [52. Valid Anagram
+POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
 
