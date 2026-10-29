@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 0 | 9 | 0 | `2026-10-29` |
+| **10** | 0 | 10 | 0 | `2026-10-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -30,9 +30,11 @@ POTD](./DSA/Graphs/clone-graph) | [JAVA](./DSA/Graphs/clone-graph/solution.java)
 POTD](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference) | [JAVA](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-25` |
 | 0007 | [373. Design Snake Game
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0008 | [992. Range Sum in BST
+| 0008 | [285. Maximum Product of Three Numbers
+POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
+| 0009 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0009 | [52. Valid Anagram
+| 0010 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
