@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **12** | 0 | 12 | 0 | `2026-10-31` |
+| **13** | 0 | 13 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (12)
+### DSA (13)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,16 +28,18 @@ POTD](./DSA/Heaps/check-if-an-array-represents-a-min-heap-) | [JAVA](./DSA/Heaps
 POTD](./DSA/Graphs/clone-graph) | [JAVA](./DSA/Graphs/clone-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-10-28` |
 | 0006 | [517. Count Pairs of Equal Substrings with Minimum Difference
 POTD](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference) | [JAVA](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-25` |
-| 0007 | [373. Design Snake Game
+| 0007 | [527. Design Log Storage System
+POTD](./DSA/General/design-log-storage-system) | [JAVA](./DSA/General/design-log-storage-system/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0008 | [373. Design Snake Game
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0008 | [397. Diameter of N-ary Tree
+| 0009 | [397. Diameter of N-ary Tree
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-31` |
-| 0009 | [285. Maximum Product of Three Numbers
+| 0010 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0010 | [992. Range Sum in BST
+| 0011 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0011 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0012 | [52. Valid Anagram
+| 0012 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0013 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
