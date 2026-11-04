@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 0 | 13 | 0 | `2026-11-01` |
+| **14** | 0 | 14 | 0 | `2026-11-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -38,8 +38,10 @@ POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
 | 0011 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0012 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0013 | [52. Valid Anagram
+| 0012 | [406. Range Sum Query 2D - Mutable
+POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
+| 0013 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0014 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
