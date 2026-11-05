@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 0 | 15 | 0 | `2026-11-04` |
+| **16** | 0 | 16 | 0 | `2026-11-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,30 +20,32 @@
 POTD](./DSA/General/4-keys-keyboard) | [JAVA](./DSA/General/4-keys-keyboard/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
 | 0002 | [497. Bold Words in String
 POTD](./DSA/Strings/bold-words-in-string) | [JAVA](./DSA/Strings/bold-words-in-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-29` |
-| 0003 | [745. Check for Perfect Number
+| 0003 | [837. Change Case of Each Character in a String
+POTD](./DSA/Strings/change-case-of-each-character-in-a-string) | [JAVA](./DSA/Strings/change-case-of-each-character-in-a-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-05` |
+| 0004 | [745. Check for Perfect Number
 POTD](./DSA/General/check-for-perfect-number) | [JAVA](./DSA/General/check-for-perfect-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-24` |
-| 0004 | [974. Check if an array represents a min heap
+| 0005 | [974. Check if an array represents a min heap
 POTD](./DSA/Heaps/check-if-an-array-represents-a-min-heap-) | [JAVA](./DSA/Heaps/check-if-an-array-represents-a-min-heap-/solution.java) | ⚪ Unspecified | `Heaps` | `2026-10-23` |
-| 0005 | [47. Clone Graph
+| 0006 | [47. Clone Graph
 POTD](./DSA/Graphs/clone-graph) | [JAVA](./DSA/Graphs/clone-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-10-28` |
-| 0006 | [517. Count Pairs of Equal Substrings with Minimum Difference
+| 0007 | [517. Count Pairs of Equal Substrings with Minimum Difference
 POTD](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference) | [JAVA](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-25` |
-| 0007 | [527. Design Log Storage System
+| 0008 | [527. Design Log Storage System
 POTD](./DSA/General/design-log-storage-system) | [JAVA](./DSA/General/design-log-storage-system/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0008 | [373. Design Snake Game
+| 0009 | [373. Design Snake Game
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0009 | [397. Diameter of N-ary Tree
+| 0010 | [397. Diameter of N-ary Tree
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-31` |
-| 0010 | [707. Find row with maximum 1's
+| 0011 | [707. Find row with maximum 1's
 POTD](./DSA/General/find-row-with-maximum-1's) | [JAVA](./DSA/General/find-row-with-maximum-1's/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0011 | [285. Maximum Product of Three Numbers
+| 0012 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0012 | [992. Range Sum in BST
+| 0013 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0013 | [406. Range Sum Query 2D - Mutable
+| 0014 | [406. Range Sum Query 2D - Mutable
 POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0014 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0015 | [52. Valid Anagram
+| 0015 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0016 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
