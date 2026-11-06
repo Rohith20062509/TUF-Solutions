@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 0 | 16 | 0 | `2026-11-05` |
+| **17** | 0 | 17 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (16)
+### DSA (17)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -44,8 +44,10 @@ POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/Gener
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
 | 0014 | [406. Range Sum Query 2D - Mutable
 POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0015 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0016 | [52. Valid Anagram
+| 0015 | [1000. Remove Duplicates from Unsorted Array
+POTD](./DSA/Arrays/remove-duplicates-from-unsorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-unsorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-06` |
+| 0016 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0017 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
