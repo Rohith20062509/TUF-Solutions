@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 0 | 17 | 0 | `2026-11-06` |
+| **18** | 0 | 18 | 0 | `2026-11-07` |
 
 ---
 
@@ -38,14 +38,14 @@ POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-31` |
 | 0011 | [707. Find row with maximum 1's
 POTD](./DSA/General/find-row-with-maximum-1's) | [JAVA](./DSA/General/find-row-with-maximum-1's/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0012 | [285. Maximum Product of Three Numbers
+| 0012 | [545. Generalized Abbreviation
+POTD](./DSA/General/generalized-abbreviation) | [JAVA](./DSA/General/generalized-abbreviation/solution.java) | ⚪ Unspecified | `General` | `2026-11-07` |
+| 0013 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0013 | [992. Range Sum in BST
+| 0014 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0014 | [406. Range Sum Query 2D - Mutable
+| 0015 | [406. Range Sum Query 2D - Mutable
 POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0015 | [1000. Remove Duplicates from Unsorted Array
-POTD](./DSA/Arrays/remove-duplicates-from-unsorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-unsorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-06` |
 | 0016 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
 | 0017 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
