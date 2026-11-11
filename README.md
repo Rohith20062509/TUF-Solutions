@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-11-10` |
+| **21** | 0 | 21 | 0 | `2026-11-11` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (19)
+### DSA (20)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -32,26 +32,28 @@ POTD](./DSA/General/check-for-perfect-number) | [JAVA](./DSA/General/check-for-p
 POTD](./DSA/Heaps/check-if-an-array-represents-a-min-heap-) | [JAVA](./DSA/Heaps/check-if-an-array-represents-a-min-heap-/solution.java) | ⚪ Unspecified | `Heaps` | `2026-10-23` |
 | 0008 | [47. Clone Graph
 POTD](./DSA/Graphs/clone-graph) | [JAVA](./DSA/Graphs/clone-graph/solution.java) | ⚪ Unspecified | `Graphs` | `2026-10-28` |
-| 0009 | [517. Count Pairs of Equal Substrings with Minimum Difference
+| 0009 | [790. Count of Prime Numbers till N
+POTD](./DSA/General/count-of-prime-numbers-till-n) | [JAVA](./DSA/General/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-11-11` |
+| 0010 | [517. Count Pairs of Equal Substrings with Minimum Difference
 POTD](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference) | [JAVA](./DSA/Strings/count-pairs-of-equal-substrings-with-minimum-difference/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-25` |
-| 0010 | [527. Design Log Storage System
+| 0011 | [527. Design Log Storage System
 POTD](./DSA/General/design-log-storage-system) | [JAVA](./DSA/General/design-log-storage-system/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0011 | [373. Design Snake Game
+| 0012 | [373. Design Snake Game
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0012 | [397. Diameter of N-ary Tree
+| 0013 | [397. Diameter of N-ary Tree
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-31` |
-| 0013 | [707. Find row with maximum 1's
+| 0014 | [707. Find row with maximum 1's
 POTD](./DSA/General/find-row-with-maximum-1's) | [JAVA](./DSA/General/find-row-with-maximum-1's/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0014 | [545. Generalized Abbreviation
+| 0015 | [545. Generalized Abbreviation
 POTD](./DSA/General/generalized-abbreviation) | [JAVA](./DSA/General/generalized-abbreviation/solution.java) | ⚪ Unspecified | `General` | `2026-11-07` |
-| 0015 | [285. Maximum Product of Three Numbers
+| 0016 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0016 | [992. Range Sum in BST
+| 0017 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0017 | [406. Range Sum Query 2D - Mutable
+| 0018 | [406. Range Sum Query 2D - Mutable
 POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0018 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0019 | [52. Valid Anagram
+| 0019 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0020 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
