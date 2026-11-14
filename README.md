@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-11-14` |
+| **24** | 0 | 24 | 0 | `2026-11-14` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (22)
+### DSA (23)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -44,19 +44,21 @@ POTD](./DSA/General/design-log-storage-system) | [JAVA](./DSA/General/design-log
 POTD](./DSA/General/design-snake-game) | [Solution-3](./DSA/General/design-snake-game/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-22` |
 | 0014 | [397. Diameter of N-ary Tree
 POTD](./DSA/Trees/diameter-of-n-ary-tree) | [JAVA](./DSA/Trees/diameter-of-n-ary-tree/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-31` |
-| 0015 | [707. Find row with maximum 1's
+| 0015 | [531. Find Anagram Mappings
+POTD](./DSA/Strings/find-anagram-mappings) | [Solution-2](./DSA/Strings/find-anagram-mappings/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-11-14` |
+| 0016 | [707. Find row with maximum 1's
 POTD](./DSA/General/find-row-with-maximum-1's) | [JAVA](./DSA/General/find-row-with-maximum-1's/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0016 | [545. Generalized Abbreviation
+| 0017 | [545. Generalized Abbreviation
 POTD](./DSA/General/generalized-abbreviation) | [JAVA](./DSA/General/generalized-abbreviation/solution.java) | ⚪ Unspecified | `General` | `2026-11-07` |
-| 0017 | [147. Implement Queue using ArraysPOTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-11-12` |
-| 0018 | [285. Maximum Product of Three Numbers
+| 0018 | [147. Implement Queue using ArraysPOTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-11-12` |
+| 0019 | [285. Maximum Product of Three Numbers
 POTD](./DSA/General/maximum-product-of-three-numbers) | [Solution-1](./DSA/General/maximum-product-of-three-numbers/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-29` |
-| 0019 | [992. Range Sum in BST
+| 0020 | [992. Range Sum in BST
 POTD](./DSA/Trees/range-sum-in-bst) | [JAVA](./DSA/Trees/range-sum-in-bst/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-21` |
-| 0020 | [406. Range Sum Query 2D - Mutable
+| 0021 | [406. Range Sum Query 2D - Mutable
 POTD](./DSA/General/range-sum-query-2d---mutable) | [JAVA](./DSA/General/range-sum-query-2d---mutable/solution.java) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0021 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0022 | [52. Valid Anagram
+| 0022 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0023 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
